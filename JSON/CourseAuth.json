@@ -1,0 +1,136 @@
+[
+    {
+        "CourseName":"PYTHON",
+        "CourseID":"SAIRUN/PYTHON002",
+        "TotalTopics":55,
+         "Content":[
+                  {
+                      "Heading":"Over View in Python",
+                      "DataHolder" :[
+                        {
+                        "SubHeadings":"Introduction",
+                        "Topics":[
+                        {"Topic":"Introduction","Status":false},
+                        {"Topic":"Tokens","Status":false},
+                        {"Topic":"Identifiers","Status":false},
+                        {"Topic":"Constants","Status":false},
+                        {"Topic":"Integer Constant","Status":false},
+                        {"Topic":"Floating Point Constant","Status":false},
+                        {"Topic":"Charcter Constants","Status":false},
+                        {"Topic":"String Literal","Status":false}
+                       ]
+                       },
+                       {
+                        "SubHeadings":"Operators In Python",
+                        "Topics":[
+                          {"Topic":"Operator","Status":false},
+                          {"Topic":"Operators are specific to Python","Status":false},
+                          {"Topic":"Preprocessor Operator","Status":false},
+                          {"Topic":"operatos are classified as","Status":false},
+                          {"Topic":"Unary operator","Status":false},
+                          {"Topic":"Binary operator","Status":false},
+                          {"Topic":"Arithmetic Operators","Status":false},
+                          {"Topic":"Relational operator","Status":false},
+                          {"Topic":"Logical Operators (Boolean operators)","Status":false},
+                          {"Topic":"conditional operators (?:)","Status":false},
+                          {"Topic":"Assignment Operator","Status":false},
+                          {"Topic":"Operator Precedence","Status":false}
+                         ]
+                       },
+                       {
+                        "SubHeadings":"Punctuators In Python",
+                        "Topics":[
+                          {"Topic":"Punctuators","Status":false}
+                        ]
+                       },
+                       {
+                        "SubHeadings":"Variables In Python",
+                        "Topics":[
+                          {"Topic":"Variables","Status":true},
+                          {"Topic":"Modifiers in Python","Status":false},
+                          {"Topic":"Initialization of variables","Status":false},
+                          {"Topic":"Pointer variables","Status":false},
+                          {"Topic":"Declaring pointer variables","Status":false},
+                          {"Topic":"Implicit conversions","Status":false},
+                          {"Topic":"Sizeof operator in Python","Status":false},
+                          {"Topic":"Type cast","Status":false}
+                         ]
+                       },
+                       {
+                        "SubHeadings":"Stroage Class In Python",
+                        "Topics":[
+                          {"Topic":"Auto","Status":false},
+                          {"Topic":"Extern","Status":false},
+                          {"Topic":"Register","Status":false},
+                          {"Topic":"Static","Status":false}
+                          ]
+                       },
+                       {
+                        "SubHeadings":"Data Types In Python",
+                        "Topics":[
+                          {"Topic":"Data Types","Status":false},
+                          {"Topic":"Built-in Data Types","Status":false},
+                          {"Topic":"Integral Type","Status":false},
+                          {"Topic":"Floating Type","Status":false},
+                          {"Topic":"Void Type","Status":false},
+                          {"Topic":"Derived Data types","Status":false},
+                          {"Topic":"Pointers","Status":false}
+                          ]
+                       }
+                      
+                     ]
+                  },
+                  {
+                    "Heading":"Basci Statements in Python",
+                    "DataHolder" :[
+                        {
+                        "SubHeadings":"Header files in Python",
+                        "Topics":[
+                          {"Topic":"Header files in Python","Status":false}
+                          ]
+                       },
+                       {
+                        "SubHeadings":"Input / Output Statement in Python",
+                        "Topics":[
+                          {"Topic":"Input / Output Statement","Status":false},
+                          {"Topic":"How to use cin object in Python","Status":false},
+                          {"Topic":"Output statement","Status":false}
+                        ]
+                       },
+                       {
+                        "SubHeadings":"Declaration  Statement in Python",
+                        "Topics":[
+                          {"Topic":"Declaration  Statement","Status":false}
+                          ]
+                       },
+                       {
+                        "SubHeadings":"Assignment Statements in Python",
+                        "Topics":[
+                          {"Topic":"Assignment Statements","Status":false}
+                          ]
+                       },
+                       {
+                        "SubHeadings":"My First Program in Python",
+                        "Topics":[
+                          {"Topic":"My First Program","Status":false}
+                        ]
+                       },
+                       {
+                        "SubHeadings":"Control Structures in Python",
+                        "Topics":[
+                          {"Topic":"Control Structures","Status":false},
+                          {"Topic":"control Structures Type","Status":false},
+                          {"Topic":"Slection statement","Status":false},
+                          {"Topic":"if..else Statement","Status":false},
+                          {"Topic":"Switch Statement","Status":false},
+                          {"Topic":"Loop Statement","Status":false},
+                          {"Topic":"For(;;) Loop","Status":false},
+                          {"Topic":"While() Loop","Status":false},
+                          {"Topic":"Do While() Loop","Status":false}
+                        ]
+                       }
+                    ]
+                }
+         ]
+    }
+]

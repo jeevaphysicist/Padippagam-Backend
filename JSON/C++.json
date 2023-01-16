@@ -1,0 +1,12 @@
+[
+    {   
+        "CourseID":"C++001",
+        "Heading":"Variables",
+        "Definition":["The name assigned to a data feild that can assume any of a given set of value is defined as the variable .","For Example :","int num ;","num = 5;",
+        "The statement int num ; may be interpreted as  num is a variable of the type integer .","The assignment statement num =5 may be interpreted as the value 5 is stored in the variable num .",
+       "Variables are user defined named entities of memory location that can store data ."  ],
+       "Rules":["Variable names may contain letters ,numbers and the underscore cahracter(_) ." , 
+                 "Names must begin with a letter or underscore .",
+                 "Names are case sensitive , which means that it differentiates between lower case and upper case letters ."]
+    }
+]
